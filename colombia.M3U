@@ -242,4 +242,4 @@ http://tv.teleclub.xyz/stream/server_1/24x7/dragonballsuper/master.m3u8
 #EXTINF:-1 tvg-id="lossimpsons_1" tvg-logo="https://img.teleclub.xyz/lossimpsons.png" group-title="24x7", Los Simpsons
 http://tv.teleclub.xyz/stream/server_1/24x7/lossimpsons/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports 5k
-https://m7.merichunidya.com:999/hls/dsports.m3u8
+https://m7.merichunidya.com:999/hls/dsports.m3u8?md5=YNAPXm0nRU9ogmVRxxwqaQ&expires=1749951241
